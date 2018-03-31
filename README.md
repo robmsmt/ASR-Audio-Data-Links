@@ -5,9 +5,9 @@ A list of common publically (and privately) available audio data that you can do
 
 ## 1. FREE
 
-**Source**|**Name & Link**|**Type**|**Size(Hours)**
+**Source**|**Name & Direct Link**|**Type**|**Size(Hours)**
 :-----:|:-----:|:-----:|:-----:
-[OpenSLR](http://www.openslr.org/12)|[LibriSpeech](http://www.openslr.org/resources/12/train-clean-100.tar.gz)|Read|960
+[OpenSLR](http://www.openslr.org/12)|LibriSpeech[Train100](http://www.openslr.org/resources/12/train-clean-100.tar.gz)[360](http://www.openslr.org/resources/12/train-clean-360.tar.gz)[500](http://www.openslr.org/resources/12/train-other-500.tar.gz) Test[Clean](http://www.openslr.org/resources/12/test-clean.tar.gz)[Other](http://www.openslr.org/resources/12/test-other.tar.gz) Dev[Clean](http://www.openslr.org/resources/12/dev-clean.tar.gz)[Other](http://www.openslr.org/resources/12/dev-other.tar.gz)|Read|960
 [OpenSLR](http://www.openslr.org/19)|[Tedlium Release 2](http://www.openslr.org/resources/19/TEDLIUM_release2.tar.gz)|Read|118
 [Voxforge](http://www.voxforge.org/home/downloads)|[Voxforge English](https://common-voice-data-download.s3.amazonaws.com/voxforge_corpus_v1.0.0.tar.gz)|Read|130
 [Mozilla](https://voice.mozilla.org)|[Common Voice](https://common-voice-data-download.s3.amazonaws.com/cv_corpus_v1.tar.gz)|Read|500 
