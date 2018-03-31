@@ -17,8 +17,7 @@ A list of common publically (and privately) available audio data that you can do
 
 **Source**|**Name**|**Type**|**Size(Hours)**|**Code**
 :-----:|:-----:|:-----:|:-----:|:-----:
-[LDC](https://www.ldc.upenn.edu)|Fisher|Conversational|2000|Part1 Speech [LDC2004S13](https://catalog.ldc.upenn.edu/LDC2004S13) Transcripts [LDC2004T19](https://catalog.ldc.upenn.edu/LDC2004T19) 
-Part2 Speech [LDC2005S13](https://catalog.ldc.upenn.edu/LDC2005S13) Transcripts [LDC2005T19](https://catalog.ldc.upenn.edu/LDC2005T19) 
+[LDC](https://www.ldc.upenn.edu)|Fisher|Conversational|2000|Speech [LDC2004S13](https://catalog.ldc.upenn.edu/LDC2004S13) [LDC2005S13](https://catalog.ldc.upenn.edu/LDC2005S13) Transcripts [LDC2004T19](https://catalog.ldc.upenn.edu/LDC2004T19) [LDC2005T19](https://catalog.ldc.upenn.edu/LDC2005T19) 
 [LDC](https://www.ldc.upenn.edu)|Switchboard Hub 500|Conversational|240|[LDC2002S09](https://catalog.ldc.upenn.edu/LDC2002S09)
 [LDC](https://www.ldc.upenn.edu)|Switchboard Release 2|Conversational|300|[LDC97S62](https://catalog.ldc.upenn.edu/LDC97S62)
 [LDC](https://www.ldc.upenn.edu)|TIMIT|Read|5|[LDC93S1](https://catalog.ldc.upenn.edu/LDC93S1)
