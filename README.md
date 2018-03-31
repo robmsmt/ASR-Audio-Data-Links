@@ -8,10 +8,10 @@ A list of common publically (and privately) available audio data that anyone can
 
 **Source**|**Name**|**Type**|**Size(Hours)**
 :-----:|:-----:|:-----:|:-----:
-[OpenSLR](openslr.org/12)|[LibriSpeech](openslr.org/12)|Read|960
-[OpenSLR](openslr.org/19)|[Tedlium Release 2](openslr.org/19)|Read|118
+[OpenSLR](http://www.openslr.org/12)|[LibriSpeech](http://www.openslr.org/12)|Read|960
+[OpenSLR](http://www.openslr.org/19)|[Tedlium Release 2](http://www.openslr.org/19)|Read|118
 [Voxforge](http://www.voxforge.org/home/downloads)|[Voxforge English](http://www.voxforge.org/home/downloads)|Read|130
-[Mozilla](https://voice.mozilla.org/en/data)|[Common Voice](https://common-voice-data-download.s2.amazonaws.com)|Read|500 
+[Mozilla](https://voice.mozilla.org/en/data)|[Common Voice](https://common-voice-data-download.s3.amazonaws.com)|Read|500 
 Tatoeba|Tatoeba Exports|Read|TBC
 
 ## 2. PAID
