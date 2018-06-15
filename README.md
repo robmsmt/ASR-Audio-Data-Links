@@ -31,4 +31,5 @@ A list of common publically (and privately) available audio data that you can do
 **Source**|**Name & Direct Link**|**Type**|**Size(Hours)**
 :-----:|:-----:|:-----:|:-----:
 [Edinburgh CSTR](https://datashare.is.ed.ac.uk/handle/10283/2651)|[CSTR VCTK Corpus](https://datashare.is.ed.ac.uk/bitstream/handle/10283/2651/VCTK-Corpus.zip?sequence=2&isAllowed=y)|Read|44
+[LJ Speech](https://keithito.com/LJ-Speech-Dataset/)|[LJ Speech](http://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2)|Read|24
 
