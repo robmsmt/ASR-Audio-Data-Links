@@ -24,4 +24,11 @@ A list of common publically (and privately) available audio data that you can do
 [LDC](https://www.ldc.upenn.edu)|Wall Street Journal (WSJ)|Read|80|[LDC93S6A](https://catalog.ldc.upenn.edu/LDC93S6A) or [LDC93S6B](https://catalog.ldc.upenn.edu/LDC93S6B)
 
 
+# TTS
+
+## 1. FREE
+
+**Source**|**Name & Direct Link**|**Type**|**Size(Hours)**
+:-----:|:-----:|:-----:|:-----:
+[Edinburgh CSTR](https://datashare.is.ed.ac.uk/handle/10283/2651)|[CSTR VCTK Corpus](https://datashare.is.ed.ac.uk/bitstream/handle/10283/2651/VCTK-Corpus.zip?sequence=2&isAllowed=y)|Read|44
 
