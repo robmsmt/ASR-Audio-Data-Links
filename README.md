@@ -12,6 +12,8 @@ A list of common publically (and privately) available audio data that you can do
 [Voxforge](http://www.voxforge.org/home/downloads)|[Voxforge English](https://common-voice-data-download.s3.amazonaws.com/voxforge_corpus_v1.0.0.tar.gz)|Read|130
 [Mozilla](https://voice.mozilla.org)|[Common Voice](https://common-voice-data-download.s3.amazonaws.com/cv_corpus_v1.tar.gz)|Read|500 
 [Tatoeba](http://tatoeba.org)|[Tatoeba Audio Eng](https://downloads.tatoeba.org/tatoeba_audio_eng.zip)|Read|TBC
+[Noisy Speech Database (Valentini)](https://datashare.is.ed.ac.uk/handle/10283/2791)|[All Files](http://datashare.is.ed.ac.uk/download/DS_10283_2791.zip&isAllowed=y), [DOI](https://doi.org/10.7488/ds/2117.) |Read, Clean + Noisy|TBC
+
 
 ## 2. PAID
 
