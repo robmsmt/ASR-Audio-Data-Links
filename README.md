@@ -11,7 +11,7 @@ A list of common publically (and privately) available audio data that you can do
 [OpenSLR](http://www.openslr.org/19)|[TED-LIUM Release 2](http://www.openslr.org/resources/19/TEDLIUM_release2.tar.gz)|Read|118
 [OpenSLR](https://www.openslr.org/51/)|[TED-LIUM Release 3](http://www.openslr.org/resources/51/TEDLIUM_release-3.tgz)|Read|452
 [Voxforge](http://www.voxforge.org/home/downloads)|[Voxforge English](https://common-voice-data-download.s3.amazonaws.com/voxforge_corpus_v1.0.0.tar.gz)|Read|130
-[Mozilla](https://voice.mozilla.org)|[Common Voice](https://common-voice-data-download.s3.amazonaws.com/cv_corpus_v1.tar.gz)|Read|500 
+[Mozilla](https://voice.mozilla.org)|[Common Voice v1](https://common-voice-data-download.s3.amazonaws.com/cv_corpus_v1.tar.gz)<br/>[Common Voice en_1087h_2019-06-12](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-3/en.tar.gz)|Read|500<br/>1087 
 [Tatoeba](http://tatoeba.org)|[Tatoeba Audio Eng](https://downloads.tatoeba.org/tatoeba_audio_eng.zip)|Read|~200
 [Valentini](https://datashare.is.ed.ac.uk/handle/10283/2791)|Noisy Speech Database [All Files](http://datashare.is.ed.ac.uk/download/DS_10283_2791.zip), [DOI](https://doi.org/10.7488/ds/2117) |Read|TBC
 
