@@ -12,11 +12,13 @@ A list of common publically (and privately) available audio data that you can do
 [OpenSLR](https://www.openslr.org/51/)|[TED-LIUM Release 3](http://www.openslr.org/resources/51/TEDLIUM_release-3.tgz)|Read|452
 [Voxforge](http://www.voxforge.org/home/downloads)|[Voxforge English](https://common-voice-data-download.s3.amazonaws.com/voxforge_corpus_v1.0.0.tar.gz)|Read|130
 [Mozilla](https://voice.mozilla.org)|[Common Voice v1](https://common-voice-data-download.s3.amazonaws.com/cv_corpus_v1.tar.gz)|Read|500 
-[Mozilla](https://voice.mozilla.org)|[Common Voice en_1087h_2019-06-12](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-3/en.tar.gz)|Read|1087 
+[Mozilla](https://voice.mozilla.org)|[Common Voice en_1087h_2019-06-12](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-3/en.tar.gz)|Read|1,087 
 [Tatoeba](http://tatoeba.org)|[Tatoeba Audio Eng](https://downloads.tatoeba.org/audio/tatoeba_audio_eng.zip)|Read|~200
 [Valentini](https://datashare.is.ed.ac.uk/handle/10283/2791)|Noisy Speech Database [All Files](http://datashare.is.ed.ac.uk/download/DS_10283_2791.zip), [DOI](https://doi.org/10.7488/ds/2117) |Read|TBC
 [VOiCES](https://iqtlabs.github.io/voices/)|Complex Environmental Settings [All Files](https://raw.githubusercontent.com/robmsmt/ASR-Audio-Data-Links/master/VOiCES_download.sh) |Read <br /> LibriSpeech|15
-[ai4bharat](https://ai4bharat.org)|[NPTEL2020](https://github.com/AI4Bharat/NPTEL2020-Indian-English-Speech-Dataset)<br />en-IN [Torrent](https://academictorrents.com/download/cc9dc56afd3055c7e0f021ec4f1824021558926c.torrent)|Lectures|15700
+[ai4bharat](https://ai4bharat.org)|[NPTEL2020](https://github.com/AI4Bharat/NPTEL2020-Indian-English-Speech-Dataset) <br />en-IN [Torrent](https://academictorrents.com/download/cc9dc56afd3055c7e0f021ec4f1824021558926c.torrent)|Lectures|15,700
+[Opencollective](https://opencollective.com/open_stt)|[open_stt](https://github.com/snakers4/open_stt/) <br />Russian [Torrent](https://academictorrents.com/download/95b4cab0f99850e119114c8b6df00193ab5fa34f.torrent)|Various Read/Presented|20,108
+[Speechcolab](https://arxiv.org/abs/2106.06909)|[GigaSpeech](https://github.com/SpeechColab/GigaSpeech) <br /> [Link](https://github.com/SpeechColab/GigaSpeech#download)|Various Read/Presented|33,000 Unlabeled<br />10,000 Labeled 
 
 
 ## 2. PAID
